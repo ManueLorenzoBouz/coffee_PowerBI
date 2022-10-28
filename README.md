@@ -1,3 +1,5 @@
+## Power BI dashboard
+
 **To view the public dashboard in Power BI, click [here](https://app.powerbi.com/view?r=eyJrIjoiYTk5NjQ2NzgtYjQ4Yi00OWQ4LWIwZGItNWE4YjQ3NGFlNzFiIiwidCI6IjQ3NDE2OWI2LTU3MTYtNDlkYy1iOWQxLWY1MmI4YTc4MTVmZiIsImMiOjl9&embedImagePlaceholder=true).**
 
 This dashboard is focused on the coffee sector. It is aimed at companies that have to choose coffee suppliers and want to select the one that best suits their needs.
